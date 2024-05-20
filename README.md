@@ -1,6 +1,6 @@
 This is my first application test for the position of Junior QA Tester.
 
-This assignment was to create a script for a web browser of my choice automating the commands below:
+This assignment was to create a script for a web browser of my choice to automate the commands below:
   1. Open https://careers.veeam.com/vacancies and maximize the browser window.
   2. Using the jobs filter on the page, count the number of Sales positions in two locations: 
     - USA, Texas, Austin
