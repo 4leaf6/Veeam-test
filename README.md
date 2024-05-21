@@ -19,5 +19,7 @@ The entire code is made in 4 blocks to operate an Edge web browser. They are:
     Comparing is done by giving the percentage of coverage the searchh. 
 
 User can demand to count any open position in the company's departments.
-If the program cannot find any open position from the user's input, it will be dysplayed an exception message:
+If the program cannot find any open position from the user's input, it will be displayed an exception message:
   "No vacancies in the desired department or location."
+
+The current code is unable to identify items that are not visible at first in the dropdown menus in the jobs filters.
