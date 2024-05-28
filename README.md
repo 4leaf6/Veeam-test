@@ -1,3 +1,5 @@
+WIP
+
 This is my first technical assessment test for the position of Junior QA Tester.
 
 This assignment was to create a script for a web browser of my choice to automate the commands below:
